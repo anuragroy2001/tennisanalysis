@@ -2,6 +2,12 @@
 
 An advanced computer vision and machine learning project that analyzes tennis match videos to extract meaningful insights about player performance, ball tracking, and game statistics.
 
+## 🎬 Demo Video
+
+https://github.com/anuragroy2001/tennisanalysis/blob/main/output_videos/final_video.mp4
+
+*Watch our AI system in action: real-time player tracking, ball trajectory analysis, and court mapping on live tennis footage.*
+
 ## 🎾 Overview
 
 This tennis analysis system uses state-of-the-art computer vision techniques to automatically analyze tennis match footage. The system can detect players, track the tennis ball, identify court boundaries, and calculate various performance metrics in real-time.

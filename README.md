@@ -11,7 +11,6 @@ An advanced computer vision and machine learning project that analyzes tennis ma
 https://github.com/user-attachments/assets/cf105636-247f-4d96-a5fc-97c47c84b821
 
 
-
 ##  Overview
 
 This tennis analysis system uses state-of-the-art computer vision techniques to automatically analyze tennis match footage. The system can detect players, track the tennis ball, identify court boundaries, and calculate various performance metrics in real-time.

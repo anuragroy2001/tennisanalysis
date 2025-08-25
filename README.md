@@ -7,7 +7,9 @@ An advanced computer vision and machine learning project that analyzes tennis ma
 ![Tennis Analysis Demo](https://github.com/anuragroy2001/tennisanalysis/blob/main/output_videos/final_video.mp4)
 
 
-https://github.com/user-attachments/assets/94719814-5d7b-43f9-aec8-2a0698a6c8ef
+
+https://github.com/user-attachments/assets/cf105636-247f-4d96-a5fc-97c47c84b821
+
 
 
 ##  Overview

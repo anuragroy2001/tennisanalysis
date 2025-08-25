@@ -4,7 +4,7 @@ An advanced computer vision and machine learning project that analyzes tennis ma
 
 ## 🎬 Demo Video
 
-https://github.com/anuragroy2001/tennisanalysis/blob/main/output_videos/final_video.mp4
+![Tennis Analysis Demo](https://github.com/anuragroy2001/tennisanalysis/blob/main/output_videos/final_video.mp4)
 
 *Watch our AI system in action: real-time player tracking, ball trajectory analysis, and court mapping on live tennis footage.*
 
